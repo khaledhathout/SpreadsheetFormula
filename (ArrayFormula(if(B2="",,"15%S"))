@@ -1,0 +1,1 @@
+=iferror(ArrayFormula(if(B2="",,"15%S")),"")
