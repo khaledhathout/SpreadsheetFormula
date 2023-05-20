@@ -1,0 +1,1 @@
+=iferror(INDEX (Sheet1!A:A  ,  MATCH ( A2 ,Sheet1!C:C, 0)   ),"")
